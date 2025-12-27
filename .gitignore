@@ -1,3 +1,7 @@
 data/
 *.csv
 panels_with_polygon
+data_all/
+data_neg/
+runs/
+segmentation-part/chest-ct-segmentation/
