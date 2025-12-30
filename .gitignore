@@ -5,3 +5,7 @@ data_all/
 data_neg/
 runs/
 segmentation-part/chest-ct-segmentation/
+data_lucknow/
+segmentation-part/sam2_training_data
+video_cache
+video_cache_lucknow
